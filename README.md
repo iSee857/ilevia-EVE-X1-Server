@@ -1,4 +1,4 @@
-# CVE-2025-60738 ilevia-EVE-X1-Server
+<img width="1139" height="584" alt="image" src="https://github.com/user-attachments/assets/320741fc-e518-4fe1-95de-4c223fa45d9b" /># CVE-2025-60738 ilevia-EVE-X1-Server RCE
 ilevia-EVE-X1-Server rce poc;ssrf
 
 ## Affected Repository
@@ -7,6 +7,8 @@ ilevia-EVE-X1-Server rce poc;ssrf
 - File: /ajax/php/ping.php
 - homePage: https://www.ilevia.com/
 - CVE_ID: CVE-2025-60738
+- Vector: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+- Refer: https://nvd.nist.gov/vuln/detail/CVE-2025-60738
 - Dependency: Ilevia EVE X1 Server ( Firmware Version<= 4.7.18.0.eden;Logic Version<=6.00 - 2025_07_21)
 
 ## Proof of Concept (PoC)
