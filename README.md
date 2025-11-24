@@ -1,4 +1,4 @@
-<img width="1139" height="584" alt="image" src="https://github.com/user-attachments/assets/320741fc-e518-4fe1-95de-4c223fa45d9b" /># CVE-2025-60738 ilevia-EVE-X1-Server RCE
+# CVE-2025-60738 ilevia-EVE-X1-Server RCE
 ilevia-EVE-X1-Server rce poc;ssrf
 
 ## Affected Repository
